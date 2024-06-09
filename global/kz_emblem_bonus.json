@@ -1,0 +1,16 @@
+{
+    "id": 327,
+    "name": "kz_emblem_bonus",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=491412109",
+    "mappers": [
+        {
+            "name": "Timmycakes",
+            "id64": 76561197996471054
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

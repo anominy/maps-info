@@ -1,0 +1,12 @@
+{
+    "id": 518,
+    "name": "kz_warehouse",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=288587982",
+    "mappers": [
+        {
+            "name": "Witchhowl",
+            "id64": 76561198027343851
+        }
+    ]
+}

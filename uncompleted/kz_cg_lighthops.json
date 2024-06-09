@@ -1,0 +1,16 @@
+{
+    "id": 280,
+    "name": "kz_cg_lighthops",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2545050329",
+    "mappers": [
+        {
+            "name": "Mentalo",
+            "id64": null
+        },
+        {
+            "name": "OldHead",
+            "id64": 76561198009989298
+        }
+    ]
+}

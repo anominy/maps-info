@@ -1,0 +1,12 @@
+{
+    "id": 244,
+    "name": "kz_autobadges",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=509624370",
+    "mappers": [
+        {
+            "name": "Badges",
+            "id64": 76561197983438223
+        }
+    ]
+}

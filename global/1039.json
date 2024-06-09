@@ -1,0 +1,20 @@
+{
+    "id": 1039,
+    "name": "kz_persona_is_a_dictator",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2436178063",
+    "mappers": [
+        {
+            "name": "nopey",
+            "id64": 76561198401447544
+        },
+        {
+            "name": "caja",
+            "id64": 76561198068278361
+        },
+        {
+            "name": "persona",
+            "id64": 76561198143205331
+        }
+    ]
+}

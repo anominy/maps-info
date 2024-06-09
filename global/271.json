@@ -1,0 +1,12 @@
+{
+    "id": 271,
+    "name": "kz_canyon",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=621630951",
+    "mappers": [
+        {
+            "name": "archon",
+            "id64": 76561198034601835
+        }
+    ]
+}

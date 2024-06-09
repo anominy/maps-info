@@ -1,0 +1,12 @@
+{
+    "id": 777,
+    "name": "kz_weebfactory_censored",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2110341385",
+    "mappers": [
+        {
+            "name": "mark",
+            "id64": 76561198045869085
+        }
+    ]
+}

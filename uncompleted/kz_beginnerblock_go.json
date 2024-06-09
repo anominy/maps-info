@@ -1,0 +1,12 @@
+{
+    "id": 250,
+    "name": "kz_beginnerblock_go",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156057667",
+    "mappers": [
+        {
+            "name": "Ovi",
+            "id64": null
+        }
+    ]
+}

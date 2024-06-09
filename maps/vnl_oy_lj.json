@@ -1,0 +1,16 @@
+{
+    "id": 1041,
+    "name": "vnl_oy_lj",
+    "difficulty": 6,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2483017928",
+    "mappers": [
+        {
+            "name": "oyesteverseen",
+            "id64": 76561199096177681
+        },
+        {
+            "name": "Raunox",
+            "id64": 76561198254175551
+        }
+    ]
+}

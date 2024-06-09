@@ -1,0 +1,12 @@
+{
+    "id": 582,
+    "name": "kz_bhop_mosaic_od2",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=646510868",
+    "mappers": [
+        {
+            "name": "Overdose",
+            "id64": 76561198142809343
+        }
+    ]
+}

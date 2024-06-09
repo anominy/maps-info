@@ -1,0 +1,16 @@
+{
+    "id": 574,
+    "name": "kz_yoink",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1308906365",
+    "mappers": [
+        {
+            "name": "bainz",
+            "id64": 76561198183817078
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 830,
+    "name": "kz_angina_final",
+    "difficulty": 6,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2182136940",
+    "mappers": [
+        {
+            "name": "daolang",
+            "id64": 76561198814294487
+        },
+        {
+            "name": "Temmie",
+            "id64": 76561198137502865
+        }
+    ]
+}

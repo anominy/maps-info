@@ -1,0 +1,12 @@
+{
+    "id": 935,
+    "name": "kz_sp1_hallwaybhop",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2305555371",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

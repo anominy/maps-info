@@ -1,0 +1,12 @@
+{
+    "id": 456,
+    "name": "kz_rainrun_kn_f",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=509126081",
+    "mappers": [
+        {
+            "name": "Knove",
+            "id64": 76561198109227174
+        }
+    ]
+}

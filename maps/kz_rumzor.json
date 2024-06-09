@@ -1,0 +1,12 @@
+{
+    "id": 555,
+    "name": "kz_rumzor",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1157701765",
+    "mappers": [
+        {
+            "name": "Rumme",
+            "id64": 76561198112936613
+        }
+    ]
+}

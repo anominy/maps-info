@@ -1,0 +1,16 @@
+{
+    "id": 471,
+    "name": "kz_sandyhill_hoc",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156068273",
+    "mappers": [
+        {
+            "name": "Kangaroo",
+            "id64": 76561197977056063
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

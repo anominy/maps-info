@@ -1,0 +1,12 @@
+{
+    "id": 841,
+    "name": "vnl_whiterun",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2209883717",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

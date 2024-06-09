@@ -1,0 +1,16 @@
+{
+    "id": 703,
+    "name": "kz_slide_purple_x",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1842176999",
+    "mappers": [
+        {
+            "name": "Kirman",
+            "id64": 76561197993076156
+        },
+        {
+            "name": "PreFect",
+            "id64": 76561198070700788
+        }
+    ]
+}

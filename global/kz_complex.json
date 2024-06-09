@@ -1,0 +1,16 @@
+{
+    "id": 291,
+    "name": "kz_complex",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=386875795",
+    "mappers": [
+        {
+            "name": "teh_grave",
+            "id64": 76561197992255649
+        },
+        {
+            "name": "DropInMilk",
+            "id64": 76561198033385282
+        }
+    ]
+}

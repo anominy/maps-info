@@ -1,0 +1,16 @@
+{
+    "id": 988,
+    "name": "kz_bored",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2425874955",
+    "mappers": [
+        {
+            "name": "Jak",
+            "id64": 76561198051108171
+        },
+        {
+            "name": "Netcode",
+            "id64": 76561198083399596
+        }
+    ]
+}

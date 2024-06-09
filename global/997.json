@@ -1,0 +1,12 @@
+{
+    "id": 997,
+    "name": "kz_sp1_purpose",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2434193341",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

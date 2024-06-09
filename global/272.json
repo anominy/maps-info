@@ -1,0 +1,16 @@
+{
+    "id": 272,
+    "name": "kz_cartooncastle_go",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1170804936",
+    "mappers": [
+        {
+            "name": "s0liD",
+            "id64": 76561197980460370
+        },
+        {
+            "name": "karatekafer",
+            "id64": null
+        }
+    ]
+}

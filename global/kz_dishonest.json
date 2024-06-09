@@ -1,0 +1,16 @@
+{
+    "id": 1126,
+    "name": "kz_dishonest",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2744056488",
+    "mappers": [
+        {
+            "name": "8DD",
+            "id64": 76561198113837673
+        },
+        {
+            "name": "vlm",
+            "id64": 7656119813276126
+        }
+    ]
+}

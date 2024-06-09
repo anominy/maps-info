@@ -1,0 +1,12 @@
+{
+    "id": 318,
+    "name": "kz_dungeon",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=515635506",
+    "mappers": [
+        {
+            "name": "RyBorg",
+            "id64": 76561198101913104
+        }
+    ]
+}

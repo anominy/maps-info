@@ -1,0 +1,16 @@
+{
+    "id": 257,
+    "name": "kz_bhop_skyworld_go",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=678315907",
+    "mappers": [
+        {
+            "name": "ρ",
+            "id64": 76561198002830622
+        },
+        {
+            "name": "Orbit",
+            "id64": 76561198057269402
+        }
+    ]
+}

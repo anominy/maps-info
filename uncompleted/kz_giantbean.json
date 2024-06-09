@@ -1,0 +1,16 @@
+{
+    "id": 361,
+    "name": "kz_giantbean",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156066438",
+    "mappers": [
+        {
+            "name": "Kreedz",
+            "id64": null
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

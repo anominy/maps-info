@@ -1,0 +1,16 @@
+{
+    "id": 846,
+    "name": "kz_spire",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2205432051",
+    "mappers": [
+        {
+            "name": "RZL",
+            "id64": 76561197985774978
+        },
+        {
+            "name": "Fnugz",
+            "id64": 76561198012891563
+        }
+    ]
+}

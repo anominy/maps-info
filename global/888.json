@@ -1,0 +1,16 @@
+{
+    "id": 888,
+    "name": "kz_fly_lovers",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2012561467",
+    "mappers": [
+        {
+            "name": "Deppy",
+            "id64": 76561198107633657
+        },
+        {
+            "name": "persona",
+            "id64": 76561198143205331
+        }
+    ]
+}

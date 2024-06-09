@@ -1,0 +1,12 @@
+{
+    "id": 341,
+    "name": "kz_fatigue_v2",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=375133191",
+    "mappers": [
+        {
+            "name": "Energy",
+            "id64": 76561198084022373
+        }
+    ]
+}

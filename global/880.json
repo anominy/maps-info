@@ -1,0 +1,12 @@
+{
+    "id": 880,
+    "name": "kz_sp1_candles",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2243496277",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

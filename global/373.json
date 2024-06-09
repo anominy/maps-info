@@ -1,0 +1,12 @@
+{
+    "id": 373,
+    "name": "kz_heatvents_mq",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=459351652",
+    "mappers": [
+        {
+            "name": "masque",
+            "id64": 76561197979436335
+        }
+    ]
+}

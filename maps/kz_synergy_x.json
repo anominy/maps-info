@@ -1,0 +1,16 @@
+{
+    "id": 220,
+    "name": "kz_synergy_x",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2030360282",
+    "mappers": [
+        {
+            "name": "pLANE",
+            "id64": 76561197969425557
+        },
+        {
+            "name": "fl0w",
+            "id64": 76561197991750093
+        }
+    ]
+}

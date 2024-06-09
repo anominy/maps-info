@@ -1,0 +1,12 @@
+{
+    "id": 328,
+    "name": "kz_ephemeral",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=692077375",
+    "mappers": [
+        {
+            "name": "Tapzie",
+            "id64": 76561198122678894
+        }
+    ]
+}

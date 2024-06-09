@@ -1,0 +1,20 @@
+{
+    "id": 382,
+    "name": "kz_innit",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1209786787",
+    "mappers": [
+        {
+            "name": "bainz",
+            "id64": 76561198183817078
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        },
+        {
+            "name": "Danvari",
+            "id64": 76561198038388449
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": 429,
+    "name": "kz_olympus",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=171110248",
+    "mappers": [
+        {
+            "name": "KingGambit",
+            "id64": 76561198023829871
+        }
+    ]
+}

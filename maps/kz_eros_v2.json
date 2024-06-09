@@ -1,0 +1,16 @@
+{
+    "id": 331,
+    "name": "kz_eros_v2",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=791910412",
+    "mappers": [
+        {
+            "name": "finckelton",
+            "id64": 76561198039388458
+        },
+        {
+            "name": "Kiwi",
+            "id64": 76561198077353609
+        }
+    ]
+}

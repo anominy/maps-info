@@ -1,0 +1,16 @@
+{
+    "id": 630,
+    "name": "kz_village",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1613996676",
+    "mappers": [
+        {
+            "name": "biql",
+            "id64": 76561198146445979
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

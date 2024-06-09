@@ -1,0 +1,16 @@
+{
+    "id": 798,
+    "name": "kz_cargo",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=279210694",
+    "mappers": [
+        {
+            "name": "eiRa",
+            "id64": 76561197977069783
+        },
+        {
+            "name": "Alouette",
+            "id64": 76561198044981479
+        }
+    ]
+}

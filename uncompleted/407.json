@@ -1,0 +1,20 @@
+{
+    "id": 407,
+    "name": "kz_man_everest_go_fix",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1098716930",
+    "mappers": [
+        {
+            "name": "Kreedz",
+            "id64": null
+        },
+        {
+            "name": "Spherix",
+            "id64": 76561198016516359
+        },
+        {
+            "name": "GnagarN",
+            "id64": 76561198009902429
+        }
+    ]
+}

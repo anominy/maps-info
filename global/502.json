@@ -1,0 +1,16 @@
+{
+    "id": 502,
+    "name": "kz_terablock",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=269563440",
+    "mappers": [
+        {
+            "name": "Kreedz",
+            "id64": null
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

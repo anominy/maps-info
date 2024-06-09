@@ -1,0 +1,12 @@
+{
+    "id": 345,
+    "name": "kz_foggywarehouse_v2",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=387995227",
+    "mappers": [
+        {
+            "name": "pb",
+            "id64": 76561197971221508
+        }
+    ]
+}

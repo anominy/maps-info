@@ -1,0 +1,12 @@
+{
+    "id": 275,
+    "name": "kz_catalyst_gfix",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1939576543",
+    "mappers": [
+        {
+            "name": "umbrella",
+            "id64": null
+        }
+    ]
+}

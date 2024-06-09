@@ -1,0 +1,12 @@
+{
+    "id": 1018,
+    "name": "kz_sp1_blueconcrete",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2533665410",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

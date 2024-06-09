@@ -1,0 +1,16 @@
+{
+    "id": 539,
+    "name": "xc_skycastle",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1660023848",
+    "mappers": [
+        {
+            "name": "Bendix",
+            "id64": null
+        },
+        {
+            "name": "victoria248",
+            "id64": 76561198026839022
+        }
+    ]
+}

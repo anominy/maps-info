@@ -1,0 +1,12 @@
+{
+    "id": 444,
+    "name": "kz_plains",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=747076334",
+    "mappers": [
+        {
+            "name": "Shire",
+            "id64": 76561198104341799
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": 364,
+    "name": "kz_glassesospa_v1",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=212501969",
+    "mappers": [
+        {
+            "name": "Ospa",
+            "id64": 76561197992548863
+        }
+    ]
+}

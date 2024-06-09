@@ -1,0 +1,12 @@
+{
+    "id": 978,
+    "name": "kz_kzro_2boxes1room",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2429392401",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

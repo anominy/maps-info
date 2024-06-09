@@ -1,0 +1,16 @@
+{
+    "id": 928,
+    "name": "kz_bhop_monsterjam",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2272849539",
+    "mappers": [
+        {
+            "name": "Aoki",
+            "id64": null
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

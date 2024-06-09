@@ -1,0 +1,12 @@
+{
+    "id": 309,
+    "name": "kz_depot",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=738046973",
+    "mappers": [
+        {
+            "name": "f3vo",
+            "id64": 76561198040677227
+        }
+    ]
+}

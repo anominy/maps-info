@@ -1,0 +1,12 @@
+{
+    "id": 1105,
+    "name": "kz_sp1_vines",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2678225129",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

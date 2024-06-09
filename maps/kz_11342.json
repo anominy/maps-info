@@ -1,0 +1,20 @@
+{
+    "id": 543,
+    "name": "kz_11342",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1155205561",
+    "mappers": [
+        {
+            "name": "persona",
+            "id64": 76561198143205331
+        },
+        {
+            "name": "geryuganshoop",
+            "id64": 76561198068278361
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

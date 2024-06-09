@@ -1,0 +1,12 @@
+{
+    "id": 274,
+    "name": "kz_cataclysm",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=370545981",
+    "mappers": [
+        {
+            "name": "Blixx",
+            "id64": 76561198017413484
+        }
+    ]
+}

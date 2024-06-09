@@ -1,0 +1,12 @@
+{
+    "id": 334,
+    "name": "kz_exoteric",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=380505617",
+    "mappers": [
+        {
+            "name": "Energy",
+            "id64": 76561198084022373
+        }
+    ]
+}

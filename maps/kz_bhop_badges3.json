@@ -1,0 +1,16 @@
+{
+    "id": 665,
+    "name": "kz_bhop_badges3",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1726813996",
+    "mappers": [
+        {
+            "name": "badges",
+            "id64": 76561197983438223
+        },
+        {
+            "name": "ρ",
+            "id64": 76561198002830622
+        }
+    ]
+}

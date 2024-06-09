@@ -1,0 +1,16 @@
+{
+    "id": 621,
+    "name": "kz_castlehops_v3",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1627116280",
+    "mappers": [
+        {
+            "name": "FoF",
+            "id64": 76561197991832101
+        },
+        {
+            "name": "ρ",
+            "id64": 76561198002830622
+        }
+    ]
+}

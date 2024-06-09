@@ -1,0 +1,12 @@
+{
+    "id": 214,
+    "name": "bkz_levite_v2",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1667950111",
+    "mappers": [
+        {
+            "name": "Levite",
+            "id64": 76561198031166668
+        }
+    ]
+}

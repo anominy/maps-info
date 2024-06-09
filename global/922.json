@@ -1,0 +1,16 @@
+{
+    "id": 922,
+    "name": "kz_alouette_fix",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2347901033",
+    "mappers": [
+        {
+            "name": "Alouette",
+            "id64": 76561198044981479
+        },
+        {
+            "name": "nopey",
+            "id64": 76561198401447544
+        }
+    ]
+}

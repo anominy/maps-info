@@ -1,0 +1,12 @@
+{
+    "id": 535,
+    "name": "xc_minecraft3_global",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=406057063",
+    "mappers": [
+        {
+            "name": "ProAqua",
+            "id64": 76561198051496034
+        }
+    ]
+}

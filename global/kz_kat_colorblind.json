@@ -1,0 +1,16 @@
+{
+    "id": 889,
+    "name": "kz_kat_colorblind",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2277557067",
+    "mappers": [
+        {
+            "name": "katz",
+            "id64": 76561198067576863
+        },
+        {
+            "name": "rush2sk8",
+            "id64": 76561198082904691
+        }
+    ]
+}

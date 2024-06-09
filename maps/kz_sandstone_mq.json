@@ -1,0 +1,12 @@
+{
+    "id": 469,
+    "name": "kz_sandstone_mq",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=318255698",
+    "mappers": [
+        {
+            "name": "masque",
+            "id64": 76561197979436335
+        }
+    ]
+}

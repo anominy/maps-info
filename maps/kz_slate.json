@@ -1,0 +1,12 @@
+{
+    "id": 479,
+    "name": "kz_slate",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=871544753",
+    "mappers": [
+        {
+            "name": "Orbit",
+            "id64": 76561198057269402
+        }
+    ]
+}

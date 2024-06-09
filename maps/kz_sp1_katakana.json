@@ -1,0 +1,12 @@
+{
+    "id": 948,
+    "name": "kz_sp1_katakana",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2381711985",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

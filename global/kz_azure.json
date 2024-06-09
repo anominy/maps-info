@@ -1,0 +1,12 @@
+{
+    "id": 635,
+    "name": "kz_azure",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1563199395",
+    "mappers": [
+        {
+            "name": "masque",
+            "id64": 76561197979436335
+        }
+    ]
+}

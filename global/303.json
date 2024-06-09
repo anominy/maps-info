@@ -1,0 +1,16 @@
+{
+    "id": 303,
+    "name": "kz_custos",
+    "difficulty": 5,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1135144334",
+    "mappers": [
+        {
+            "name": "xq",
+            "id64": 76561198094382485
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

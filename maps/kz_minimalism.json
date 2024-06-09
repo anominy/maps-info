@@ -1,0 +1,16 @@
+{
+    "id": 414,
+    "name": "kz_minimalism",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=784686492",
+    "mappers": [
+        {
+            "name": "badges",
+            "id64": 76561197983438223
+        },
+        {
+            "name": "ρ",
+            "id64": 76561198002830622
+        }
+    ]
+}

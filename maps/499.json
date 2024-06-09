@@ -1,0 +1,16 @@
+{
+    "id": 499,
+    "name": "kz_halicarnassus_fs",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2080802644",
+    "mappers": [
+        {
+            "name": "Zengal",
+            "id64": null
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

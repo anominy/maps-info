@@ -1,0 +1,12 @@
+{
+    "id": 432,
+    "name": "kz_orbolution_v2",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=644224500",
+    "mappers": [
+        {
+            "name": "Orbit",
+            "id64": 76561198057269402
+        }
+    ]
+}

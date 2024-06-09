@@ -1,0 +1,12 @@
+{
+    "id": 856,
+    "name": "kz_structures",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=613750240",
+    "mappers": [
+        {
+            "name": "colony",
+            "id64": 76561198012716104
+        }
+    ]
+}

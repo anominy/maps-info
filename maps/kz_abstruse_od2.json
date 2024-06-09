@@ -1,0 +1,12 @@
+{
+    "id": 230,
+    "name": "kz_abstruse_od2",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=841710228",
+    "mappers": [
+        {
+            "name": "Overdose",
+            "id64": 76561198142809343
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 944,
+    "name": "kz_surf_ace",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2366218120",
+    "mappers": [
+        {
+            "name": "Dima",
+            "id64": 76561198198062889
+        },
+        {
+            "name": "Juxtapo",
+            "id64": 76561197982874432
+        }
+    ]
+}

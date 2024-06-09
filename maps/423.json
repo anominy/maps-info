@@ -1,0 +1,16 @@
+{
+    "id": 423,
+    "name": "kz_nightfall",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2073457452",
+    "mappers": [
+        {
+            "name": "Pebi",
+            "id64": 76561198077530872
+        },
+        {
+            "name": "Danvari",
+            "id64": 76561198038388449
+        }
+    ]
+}

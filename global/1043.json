@@ -1,0 +1,12 @@
+{
+    "id": 1043,
+    "name": "kz_eimeristzurueck",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2565302878",
+    "mappers": [
+        {
+            "name": "house",
+            "id64": 76561197998230716
+        }
+    ]
+}

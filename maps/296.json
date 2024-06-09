@@ -1,0 +1,12 @@
+{
+    "id": 296,
+    "name": "kz_conrun_scrub",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=382262763",
+    "mappers": [
+        {
+            "name": "masque",
+            "id64": 76561197979436335
+        }
+    ]
+}

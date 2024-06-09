@@ -1,0 +1,16 @@
+{
+    "id": 785,
+    "name": "kz_alt_cargo",
+    "difficulty": 1,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1947965934",
+    "mappers": [
+        {
+            "name": "eiRa",
+            "id64": 76561197977069783
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

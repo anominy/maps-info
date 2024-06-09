@@ -1,0 +1,16 @@
+{
+    "id": 450,
+    "name": "kz_quadrablock",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156068013",
+    "mappers": [
+        {
+            "name": "Pix",
+            "id64": null
+        },
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        }
+    ]
+}

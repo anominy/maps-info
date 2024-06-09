@@ -1,0 +1,16 @@
+{
+    "id": 713,
+    "name": "kz_dyd_ladderjumps",
+    "difficulty": 4,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1653452291",
+    "mappers": [
+        {
+            "name": "dydka",
+            "id64": 76561198010747369
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

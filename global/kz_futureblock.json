@@ -1,0 +1,12 @@
+{
+    "id": 349,
+    "name": "kz_futureblock",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=320897168",
+    "mappers": [
+        {
+            "name": "masque",
+            "id64": 76561197979436335
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": 1102,
+    "name": "kz_sp1_parallelblocks",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2674208497",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

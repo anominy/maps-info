@@ -1,0 +1,16 @@
+{
+    "id": 540,
+    "name": "xc_supermario_go_gfix",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1939578036",
+    "mappers": [
+        {
+            "name": "SinFuL",
+            "id64": 76561197970838363
+        },
+        {
+            "name": "Iconic",
+            "id64": null
+        }
+    ]
+}

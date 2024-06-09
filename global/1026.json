@@ -1,0 +1,12 @@
+{
+    "id": 1026,
+    "name": "kz_sp1_behold",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2540167284",
+    "mappers": [
+        {
+            "name": "Spider1",
+            "id64": 76561198042146961
+        }
+    ]
+}

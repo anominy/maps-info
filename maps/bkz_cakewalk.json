@@ -1,0 +1,16 @@
+{
+    "id": 269,
+    "name": "bkz_cakewalk",
+    "difficulty": 3,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1613453363",
+    "mappers": [
+        {
+            "name": "zPrince",
+            "id64": 76561198047032125
+        },
+        {
+            "name": "GameChaos",
+            "id64": 76561198165203332
+        }
+    ]
+}

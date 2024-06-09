@@ -1,0 +1,12 @@
+{
+    "id": 298,
+    "name": "kz_construction",
+    "difficulty": 2,
+    "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=499184114",
+    "mappers": [
+        {
+            "name": "finckelton",
+            "id64": 76561198039388458
+        }
+    ]
+}
